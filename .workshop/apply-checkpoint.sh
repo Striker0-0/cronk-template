@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # POSIX helper script to stage workshop checkpoint files locally.
 # Uses only local filesystem and git commands.
 set -eu
